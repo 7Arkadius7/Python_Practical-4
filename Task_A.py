@@ -4,7 +4,7 @@
 
 from random import randint
 
-k = 7
+k = 4
 ratio = [randint(0,100) for num in range(k)]
 ratio = [str(i) for i in ratio]
 
